@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyanshkrishnatreya
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Web Development and APIs!
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @divyanshkrishnatreya
 
