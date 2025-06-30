@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @divyanshkrishnatreya
-- 👀 I’m interested in Web Development and APIs!
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me @divyanshkrishnatreya
+- Hi, I’m @divyanshkrishnatreya
+- I’m interested in Machine Learning and Front-end development!
+- I’m currently learning Django for backend
+- I’m looking to collaborate on fine-tuning LLMs...
+- Reach me @divyanshkrishnatreya
 
 <!---
 divyanshkrishnatreya/divyanshkrishnatreya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
