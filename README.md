@@ -1,8 +1,8 @@
-- Hi, I’m @divyanshkrishnatreya
-- I’m interested in Machine Learning and Front-end development!
-- I’m currently learning Django for backend
-- I’m looking to collaborate on fine-tuning LLMs...
-- Reach me @divyanshkrishnatreya
+- Hi, Divyansh here,
+- I’m interested in everything be it AI, ML, WebD, NativeD!
+- I’m currently diving deeep into Transformers, LoRA, qLoRA,   
+- I’m looking to collaborate on fine-tuning LLMs and understanding how to expand RAG systems for high traffic platforms...
+- Reach me @divyanshkrishnatreya 
 
 <!---
 divyanshkrishnatreya/divyanshkrishnatreya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
